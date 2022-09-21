@@ -1,6 +1,10 @@
 # Projet_uber_bloc3  
-Recommandation des zones chaudes dans les grandes villes à tout moment de la journée. (sujet détaillé : https://github.com/DATA-ICARD/projet_uber_bloc3/blob/main/sujet_uber_pickups.ipynb)
-
+Recommandation des zones chaudes dans les grandes villes à tout moment de la journée. (sujet détaillé : https://github.com/DATA-ICARD/projet_uber_bloc3/blob/main/sujet_uber_pickups.ipynb)  
+  
+Voici le lien vers ma vidéo de présentation :  
+  
+Mon adresse mail : datayannick@gmail.com  
+  
 Etape 1 :  
 
 EDA et Data cleaning (uber_data)
