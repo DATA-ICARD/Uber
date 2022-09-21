@@ -47,4 +47,4 @@ _(Source : https://penseeartificielle.fr/clustering-avec-lalgorithme-dbscan/)_
 
 ![](https://github.com/DATA-ICARD/projet_uber_bloc3/blob/main/dbscan.gif)  
   
-_MODELE NON RETENU_
+_MODELE RETENU_
