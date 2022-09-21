@@ -13,8 +13,6 @@ Le principe est de laisser le modèle classer les données selon leurs ressemble
 Comment fonctionne KMEANS :
   Kmeans va placer des centroïd au hasard dans la donnée, ensuite on affecte chaques points du dataset au centroïde le plus proche, ce qui nous donne des clusters puis on déplace chaques centroïdes au milieu de son cluster et on recommence jusqu'à ce que les centroïdes convergent dans une position d'équilibre.
 
-![](https://github.com/DATA-ICARD/projet_uber_bloc3/blob/main/doigt.png)
-
 
 ![](https://github.com/DATA-ICARD/projet_uber_bloc3/blob/main/kmeans.gif)
 
