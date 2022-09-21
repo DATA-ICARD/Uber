@@ -43,6 +43,7 @@ Cette procédure est ensuite répétée pour tous les nouveaux points qui vienne
 4 – Ce processus des étapes 2 et 3 est répété jusqu’à ce que tous les points du cluster soient déterminés, c’est-à-dire que tous les points à proximité du ε voisinage du cluster ont été visités et étiquetés.
 
 5 – Une fois terminé avec le cluster actuel, un nouveau point non visité est récupéré et traité, ce qui permet de découvrir un nouveau cluster ou du bruit. Ce processus se répète jusqu’à ce que tous les points soient marqués comme étant visités. A la fin de tous les points visités, chaque points a été marqué comme appartenant à un cluster ou comme étant du bruit.
+_(Source : https://penseeartificielle.fr/clustering-avec-lalgorithme-dbscan/)_  
 
 ![](https://github.com/DATA-ICARD/projet_uber_bloc3/blob/main/dbscan.gif)
 
